@@ -11,7 +11,7 @@ function Home() {
                 <p className="lead">Esse é um web-app simples feito em ReactJs para  
                 cadastrar e ler produtos!</p>
                 <hr className="my-4"/>
-                <p>Clique abaixo para registrar!</p>
+                <p>Clique abaixo para fazer o seu primeoro registro!</p>
                 <p className="lead">
                     <Link className="btn btn-primary btn-lg" to='/cadastro-produtos' role="button">Cadastrar</Link>
                 </p>
